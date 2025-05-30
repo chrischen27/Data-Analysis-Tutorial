@@ -25,7 +25,7 @@ Python package - pandas introduction.
 - 10_Panadas_Tutorial
   - Simple script from how to construct a dataframe with pandas to saving it to a file.
 - 11_Read_File
-  - Read data from csv file and excel file
+  - Import data from csv file and excel file
 - 12_DataFrames
   - Process data with dataframe
 
