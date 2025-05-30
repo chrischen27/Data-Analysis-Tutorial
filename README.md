@@ -29,4 +29,13 @@ Python package - pandas introduction.
 - 12_DataFrames
   - Process data with dataframe
 
+## 2_Example
 
+Some examples.
+
+## Practice
+
+- [Kaggle](https://www.kaggle.com/)
+  - Various open datasets. Including medicine, economics, ...
+  - [Learn Pandas on Kaggle](https://www.kaggle.com/learn/pandas])
+  - [Heart Disease Analysis using Pandas](https://www.kaggle.com/code/guglanigauri/heart-disease-analysis-using-pandas/notebook)
